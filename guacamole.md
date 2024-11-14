@@ -1,5 +1,6 @@
 # Guacamole
 ## Ingredients
 *avocado
-*lemon
+* lemon
 ## Instructions
+smash avacado 
