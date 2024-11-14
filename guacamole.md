@@ -4,3 +4,4 @@
 * lemon
 ## Instructions
 smash avacado 
+mix all
